@@ -1,0 +1,4 @@
+- https://www.kernel.org
+- https://www.gnu.org
+- https://ubuntu.com
+- https://www.debian.org
